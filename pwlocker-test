@@ -1,0 +1,3 @@
+{"service": "gmail", "credentials": [ { "username": "email1@gmail.com", "password": "email1pass" }, { "username": "email2@gmail.com", "password": "email2pass" } ] }
+{"service": "facebook", "credentials": [ { "username": "fbuser1", "password": "fbpass1" }, { "username": "fbuser2", "password": "fbpass2" } ] }
+{"service": "spotify", "credentials": [ { "username": "spotify1@gmail.com", "password": "spotifyPass1" } ] }
